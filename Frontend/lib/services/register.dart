@@ -3,7 +3,7 @@
 import 'package:http/http.dart';
 
 class Register{
-  String name,dob,place,district,phone,bloodGroup,url="https://blood-donors-kerala.000webhostapp.com/register.php";
+  String name,dob,place,district,phone,bloodGroup,url="<link>/register.php";
   Response response;
 
   Register({this.name,this.dob,this.place,this.district,this.phone,this.bloodGroup});
