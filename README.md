@@ -12,6 +12,7 @@
 ## Screenshots
 
 **Icon**
-<p align="center><img src="https://user-images.githubusercontent.com/57527558/102860377-c00d3f00-4453-11eb-8cde-e14508530067.png"></p>
+
+<p align="center><img height="200" src="https://user-images.githubusercontent.com/57527558/102860377-c00d3f00-4453-11eb-8cde-e14508530067.png"></p>
 
 **App screenshots**
