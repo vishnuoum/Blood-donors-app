@@ -6,7 +6,7 @@ import 'package:http/http.dart';
 
 class RequestUnit{
 
-  String patient,date,time,hospital,district,units,bystander,phone,bloodGroup,url="https://blood-donors-kerala.000webhostapp.com/request.php";
+  String patient,date,time,hospital,district,units,bystander,phone,bloodGroup,url="<link>/request.php";
 
   RequestUnit({this.patient,this.date,this.time,this.hospital,this.district,this.units,this.bystander,this.phone,this.bloodGroup});
   Response response;
