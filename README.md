@@ -4,7 +4,7 @@
 ## Usage Guide
 
 
-* Import the .sql files provided in the **Database** folder, to MySQL PHPMyAdmin.
+* Import the .sql files provided in the **Database** folder, using PHPMyAdmin or command line.
 * Provide the hostname, username, password and database name in the **connect.php** file.
 * Host the php files in the **Backend** in a server and provide corresponding url in the .dart files in serivces folder of frontend source.
 * After setting the working directory to flutter source files, run ```flutter pub get``` from the command line <br> or tap **pub get** (if using android studio).
