@@ -23,5 +23,5 @@
   <img height="500" src="https://user-images.githubusercontent.com/57527558/102861700-14192300-4456-11eb-8a02-3c4c922c5623.png">
   <img height="500" src="https://user-images.githubusercontent.com/57527558/102861698-14192300-4456-11eb-8174-75bbed874ff8.png"></p>
   
-## credits
+## Credits
 * UI design inspired from https://www.truelancer.com/portfolio/blood-db-blood-donation-app-uiux-74752
