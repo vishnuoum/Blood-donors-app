@@ -3,7 +3,6 @@
 
 ## Usage Guide
 
-
 * Import the .sql files provided in the **Database** folder, using PHPMyAdmin or command line.
 * Provide the hostname, username, password and database name in the **connect.php** file.
 * Host the php files in the **Backend** in a server and provide corresponding url in the .dart files in serivces folder of frontend source.
@@ -23,3 +22,6 @@
   <img height="500" src="https://user-images.githubusercontent.com/57527558/102861697-13808c80-4456-11eb-8ba7-68b4bdf68fec.png">
   <img height="500" src="https://user-images.githubusercontent.com/57527558/102861700-14192300-4456-11eb-8a02-3c4c922c5623.png">
   <img height="500" src="https://user-images.githubusercontent.com/57527558/102861698-14192300-4456-11eb-8174-75bbed874ff8.png"></p>
+  
+## credits
+* UI design inspired from https://www.truelancer.com/portfolio/blood-db-blood-donation-app-uiux-74752
