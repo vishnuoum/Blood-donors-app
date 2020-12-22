@@ -12,6 +12,6 @@
 ## Screenshots
 
 **Icon**
-<p align="center><img src="https://raw.githubusercontent.com/vishnuoum/Blood-donors-app/main/Frontend/assets/icon.png"></p>
+<p align="center><img src="https://user-images.githubusercontent.com/57527558/102860063-1cbc2a00-4453-11eb-8e6a-5961f9625339.png"></p>
 
 **App screenshots**
