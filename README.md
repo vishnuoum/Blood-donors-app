@@ -3,7 +3,6 @@
 
 ## Usage Guide
 
-{: style="text-align: justify" }
 
 * Import the .sql files provided in the **Database** folder, to MySQL PHPMyAdmin.
 * Provide the hostname, username, password and database name in the **connect.php** file.
