@@ -4,7 +4,7 @@ import 'package:http/http.dart';
 
 class Requests{
 
-  String url="https://blood-donors-kerala.000webhostapp.com/requests.php";
+  String url="<link>/requests.php";
   Response response;
 
   Future<dynamic> getRequests() async{
