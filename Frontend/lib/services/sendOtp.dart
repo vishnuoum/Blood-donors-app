@@ -5,7 +5,7 @@ import 'dart:math';
 import 'package:http/http.dart';
 
 class SendOtp{
-  String phone,otp= (Random().nextInt(900000) + 100000).toString(),url="https://blood-donors-kerala.000webhostapp.com/otp.php";
+  String phone,otp= (Random().nextInt(900000) + 100000).toString(),url="<link>/otp.php";
   Response response;
 
   SendOtp({this.phone});
