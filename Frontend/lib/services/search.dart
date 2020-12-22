@@ -5,7 +5,7 @@ import 'dart:convert';
 import 'package:http/http.dart';
 
 class Search{
-  String district,bloodGroup,url="https://blood-donors-kerala.000webhostapp.com/search.php";
+  String district,bloodGroup,url="<link>/search.php";
   Response response;
 
 
